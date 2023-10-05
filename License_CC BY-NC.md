@@ -1,8 +1,10 @@
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 JURIDISCHE TEKST
-CC BY-NC 4.0 
-Naamsvermelding-NietCommercieel 4.0 Internationaal
+
+CC BY-NC 4.0
+
+**Naamsvermelding-NietCommercieel 4.0 Internationaal**
 
 Door het uitoefenen van de door de licentie verleende rechten (zoals hieronder omschreven), ga Je akkoord met de voorwaarden en condities van deze Creative Commons Naamsvermelding-NietCommercieel 4.0 Internationale Publieke Licentie ("Publieke Licentie"). Voor zover deze Publieke Licentie geïnterpreteerd kan worden als een contract, worden Jou de gelicenseerde rechten verleend met inachtneming van Jouw aanvaarding van deze voorwaarden en condities, en de Licentiegever verleent Jou deze rechten met inachtneming van de voordelen die de Licentiegever ontvangt door het beschikbaar stellen van het Gelicenseerde Materiaal onder deze voorwaarden en condities.
 
