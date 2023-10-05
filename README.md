@@ -8,7 +8,7 @@
 
 [![PDF Preview](img/cover_pptx.png)](docs/tools_gegevensverwerking_okt23.pdf)
 
-### 💾 Databestanden
+### 💾 Data
 
 -   🗄️ [ZIP-bestand](docs/databestanden.zip) met alle databestanden
 
