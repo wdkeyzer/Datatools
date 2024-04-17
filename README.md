@@ -4,9 +4,9 @@
 
 ### 📸 PowerPoint slides
 
-[Download](docs/tools_gegevensverwerking_okt23.pdf) de PowerPoint presentatie.
+[Download](docs/tools_gegevensverwerking_apr2024.pdf) de PowerPoint presentatie.
 
-[![PDF Preview](img/cover_pptx.png)](docs/tools_gegevensverwerking_okt23.pdf)
+[![PDF Preview](img/cover_pptx.png)](docs/tools_gegevensverwerking_apr2024.pdf)
 
 ### 💾 Data
 
